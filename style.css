@@ -35,7 +35,7 @@ body {
 }
 
 .hero {
-    background: url(/BG.jpg) center center no-repeat;
+    background: url(BG.jpg) center center no-repeat;
     background-size: cover;
     padding: 45px 0px;
 }
@@ -221,7 +221,7 @@ body {
     bottom: 0;
     left: 50%;
     transform: translateX(-45%);
-    background: url(/card_shadow.png) center center no-repeat;
+    background: url(card_shadow.png) center center no-repeat;
     background-size: contain;
 }
 
@@ -350,7 +350,7 @@ body {
 
 .btn::after {
     content: '';
-    background: url(/arrow.svg) center center no-repeat;
+    background: url(arrow.svg) center center no-repeat;
     background-size: contain;
     width: 20px;
     height: 20px;
@@ -398,7 +398,7 @@ body {
 
 .hand-card::before {
     content: '';
-    background: url(/hand.svg) center center no-repeat;
+    background: url(hand.svg) center center no-repeat;
     width: 26px;
     height: 20px;
     display: block;
@@ -645,7 +645,7 @@ body {
     width: 10px;
     height: 10px;
     display: none;
-    background: url(/gal.svg) center center no-repeat;
+    background: url(gal.svg) center center no-repeat;
 }
 
 .popup__checkbox input:checked {
